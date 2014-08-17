@@ -1,7 +1,47 @@
-<html>
-	<body>
-		<h1>25x52</h1>
-		 <form style="border:1px solid #ccc;padding:3px;text-align:center;" action="https://tinyletter.com/femmebot" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/femmebot', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true"><p><label for="tlemail">Enter your email address</label></p><p><input type="text" style="width:140px" name="email" id="tlemail" /></p><input type="hidden" value="1" name="embed"/><input type="submit" value="Subscribe" /><p><a href="https://tinyletter.com" target="_blank">powered by TinyLetter</a></p></form>
-         
-	</body>
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>25x52: 25 Projects in 52 Weeks </title>
+
+    <!-- Bootstrap -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom Stylesheet -->
+    <link href="css/25x52.css" rel="stylesheet">
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+  </head>
+
+  <body>
+  	<div class="container hero">
+  		<div class="divider"></div>
+	    <h1>25x52</h1>
+	    <h2>An initiative to launch 25 projects in 52 weeks</h2>
+  		<div class="divider"></div>
+	    <ol>
+			<li>Collaborative Typography: <a href="http://femmebot.github.io/google-type" target="_blank">Google Fonts + Aesop’s Fables</a></li>
+			<li>Mini Mentorship: <a href="http://moccasin.me" target="_blank">Project Moccasin</a></li>
+		</ol>
+
+		 <form role="form" action="https://tinyletter.com/femmebot" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/femmebot', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true">
+		 <p><label for="tlemail" class="control-label">Receive Updates</label></p>
+		 <p class="col-sm-6 subscribe"><input type="text" class="form-control" name="email" id="tlemail" placeholder="Email"></p>
+		<p><input type="hidden" value="1" name="embed"/><input type="submit" value="Subscribe" class="btn btn-default btn-primary"/></p>
+		 <p><a href="https://tinyletter.com" target="_blank" class="tinytype">powered by TinyLetter</a></p></form>
+	</div>
+
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="js/bootstrap.min.js"></script>
+  </body>
 </html>
