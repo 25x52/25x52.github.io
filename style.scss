@@ -63,9 +63,8 @@ h1 {
 
 #home .post {
   width: 220px;
-  display: inline-block;
-  vertical-align: top;
-  margin-right: 20px;
+  float: left;
+  margin: 0 20px 0 0;
   height: 360px;
   overflow: hidden;
   @include mobile {
@@ -322,11 +321,9 @@ article {
 .post { 
   blockquote {
     margin: 1.8em .8em;
-    border-left: 2px solid $gray;
+    border-left: 1px dotted $gray;
     padding: 0.1em 1em;
     color: $gray;
-    font-size: 22px;
-    font-style: italic;
   }
 
   .eyebrow {

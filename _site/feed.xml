@@ -7,6 +7,16 @@
     <atom:link href="http://25x52.com/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>Jekyll-Grid</title>
+        <description>&lt;p&gt;I needed a way to chronicle and showcase a growing list of projects. Since my projects are hosted in Github, Jekyll seemed like the right solution. Except I didn’t know Jekyll. And all the Jekyll templates I found were either ugly or inadequate since they were mostly designed to be blog clones. Out of necessity, I fashioned a Jekyll template to help solve a need for displaying Github projects. Fork it here: &lt;a href=&quot;https://github.com/femmebot/jekyll-grid&quot;&gt;https://github.com/femmebot/jekyll-grid&lt;/a&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 24 Sep 2014 00:00:00 -0400</pubDate>
+        <link>http://25x52.com/Jekyll-Grid/</link>
+        <guid isPermaLink="true">http://25x52.com/Jekyll-Grid/</guid>
+      </item>
+    
+      <item>
         <title>Project Gutenberg SVG Project</title>
         <description>&lt;p&gt;A select collection of scanned, bitmap images from Project Gutenberg are converted by hand into vector SVG images.&lt;/p&gt;
 
@@ -36,7 +46,7 @@
 
 The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub. --&gt;
 </description>
-        <pubDate>Mon, 03 Mar 2014 00:00:00 -0500</pubDate>
+        <pubDate>Mon, 04 Aug 2014 00:00:00 -0400</pubDate>
         <link>http://25x52.com/Google-Fonts-Typography/</link>
         <guid isPermaLink="true">http://25x52.com/Google-Fonts-Typography/</guid>
       </item>

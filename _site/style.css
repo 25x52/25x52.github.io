@@ -72,7 +72,7 @@ body {
 
 .container {
   margin: 0 auto;
-  max-width: 960px;
+  max-width: 980px;
   padding: 0 10px;
   width: 100%;
 }
@@ -110,9 +110,8 @@ h1 a:hover {
 
 #home .post {
   width: 220px;
-  display: inline-block;
-  vertical-align: top;
-  margin-right: 20px;
+  float: left;
+  margin: 0 20px 0 0;
   height: 360px;
   overflow: hidden;
 }
@@ -220,6 +219,7 @@ em, i {
 
 strong, b {
   font-weight: bold;
+  color: #555;
 }
 
 img {
@@ -355,11 +355,9 @@ nav a {
 
 .post blockquote {
   margin: 1.8em .8em;
-  border-left: 2px solid #777;
+  border-left: 1px dotted #777;
   padding: 0.1em 1em;
   color: #777;
-  font-size: 22px;
-  font-style: italic;
 }
 .post .eyebrow {
   font-size: 12px;
@@ -414,7 +412,7 @@ footer {
 #updates form {
   border-top: 1px solid #777;
   padding: 60px 0;
-  margin-top: 120px;
+  margin-top: 60px;
 }
 #updates form input {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
