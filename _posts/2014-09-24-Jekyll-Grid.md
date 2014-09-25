@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Jekyll Grid-Based Theme 
+title: Jekyll Grid Theme 
 desc: A Swiss-style, minimalist Jekyll theme ideal for projects
 proj-url: http://femmebot.github.io/jekyll-grid/
 proj-num: 04
