@@ -7,7 +7,7 @@
     <atom:link href="http://25x52.com/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
-        <title>Jekyll Grid-Based Theme</title>
+        <title>Jekyll Grid Theme</title>
         <description>&lt;p&gt;I needed a way to chronicle and showcase a growing list of projects for 25x52. Based on some quick research, Jekyll seemed like a good solution especially since my projects are hosted on Github. Except I didn’t know Jekyll. And all the Jekyll templates I found were either ugly or inadequate since they were mostly designed to be blog clones. &lt;/p&gt;
 
 &lt;p&gt;Out of necessity, I fashioned a Jekyll theme—the very same one you’re looking at now—to document my projects. Feel free to use it for your own project documentation. Fork it here: &lt;a href=&quot;https://github.com/femmebot/jekyll-grid&quot;&gt;https://github.com/femmebot/jekyll-grid&lt;/a&gt;&lt;/p&gt;

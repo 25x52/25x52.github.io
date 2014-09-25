@@ -272,7 +272,8 @@ nav {
   float: right;
   margin-top: 23px;
   font-family: $helveticaNeue; 
-  font-size: 12px;
+  font-size: 13px;
+  font-weight: 500;
   
   @include mobile {
     float: none;
@@ -282,7 +283,7 @@ nav {
 
   a {
     margin-left: 20px;
-    color: $gray;
+    color: #000;
     width: 225px;
     display: block;
     float: right;
