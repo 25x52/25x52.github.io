@@ -8,3 +8,4 @@ proj-num: 02
 
 Project Moccasin is an opportunity for designers and product folks to spend a day shadowing a product or design mentor to observe how they work, where they work.
 
+![Google Fonts Typography Project](../images/02-v.png)

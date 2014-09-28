@@ -8,3 +8,4 @@ proj-num: 03
 
 A select collection of scanned, bitmap images from Project Gutenberg are converted by hand into vector SVG images.
 
+![Google Fonts Typography Project](../images/03-h.png)

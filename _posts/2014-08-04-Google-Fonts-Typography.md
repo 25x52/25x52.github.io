@@ -6,7 +6,12 @@ proj-url: http://femmebot.github.io/google-type/
 proj-num: 01
 ---
 
+
 There are over 650 Google web fonts available for free. Problem is, pairing typefaces isn&rsquo;t easy. And, many of the fonts in Google&rsquo;s library don&rsquo;t work well when applied to typical webpage (desktop) layouts. Using passages from the Project Gutenberg transcript of Æsop&rsquo;s Fables, this collaborative, ongoing project helps provide typographic inspiration for using Google&rsquo;s free web fonts. 
+
+
+![Google Fonts Typography Project](../images/01-h.png)
+
 
 <!-- Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below :point_down:).
 
