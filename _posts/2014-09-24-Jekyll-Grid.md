@@ -16,3 +16,4 @@ So, out of necessity, I needed to make my own. And you&rsquo;re looking at it.
 
 Feel free to use it for your own project documentation. Fork it here: [https://github.com/femmebot/jekyll-grid](https://github.com/femmebot/jekyll-grid)
 
+![Jekyll Grid Theme](../images/04-h.png)
