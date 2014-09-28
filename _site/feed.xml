@@ -28,6 +28,7 @@
         <title>Project Gutenberg SVG Project</title>
         <description>&lt;p&gt;A select collection of scanned, bitmap images from Project Gutenberg are converted by hand into vector SVG images.&lt;/p&gt;
 
+&lt;p&gt;&lt;img src=&quot;../images/03-h.png&quot; alt=&quot;Google Fonts Typography Project&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Tue, 02 Sep 2014 00:00:00 -0400</pubDate>
         <link>http://25x52.com/Gutenberg-SVG-Project/</link>
@@ -49,7 +50,8 @@
         <title>Google Fonts Typography</title>
         <description>&lt;p&gt;There are over 650 Google web fonts available for free. Problem is, pairing typefaces isn’t easy. And, many of the fonts in Google’s library don’t work well when applied to typical webpage (desktop) layouts. Using passages from the Project Gutenberg transcript of Æsop’s Fables, this collaborative, ongoing project helps provide typographic inspiration for using Google’s free web fonts. &lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;../images/01-h.png&quot; alt=&quot;Google Fonts Typography Project&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;../images/01-h.png&quot; alt=&quot;Google Fonts Typography Project&quot; /&gt;
+&lt;img src=&quot;../images/01-v.png&quot; alt=&quot;Google Fonts Typography Project&quot; /&gt;&lt;/p&gt;
 
 &lt;!-- Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below &lt;img class=&#39;emoji&#39; title=&#39;:point_down:&#39; alt=&#39;:point_down:&#39; src=&#39;https://assets.github.com/images/icons/emoji/unicode/1f447.png&#39; height=&#39;20&#39; width=&#39;20&#39; align=&#39;absmiddle&#39; /&gt;).
 
