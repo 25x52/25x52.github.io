@@ -7,6 +7,21 @@
     <atom:link href="http://25x52.com/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>GitHub C.V.</title>
+        <description>&lt;p&gt;This is a simple AJAX script that dynamically generates a portfolio page of your public Github repositories.&lt;/p&gt;
+
+&lt;p&gt;There’s a saying that “If you are not embarrassed by the first version of your product, you’ve waited too long.” Well, this is the first version, and it’s a bit embarrassing.&lt;/p&gt;
+
+&lt;p&gt;Feel free to &lt;a href=&quot;https://github.com/femmebot/GitHub-Project-CV&quot;&gt;dig into the script&lt;/a&gt;. I would love to hear feedback on how to make improvements.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../images/08-h.png&quot; alt=&quot;Di55ect&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Wed, 09 Dec 2015 00:00:00 -0500</pubDate>
+        <link>http://25x52.com/GitHub-CV/</link>
+        <guid isPermaLink="true">http://25x52.com/GitHub-CV/</guid>
+      </item>
+    
+      <item>
         <title>End-of-Year Retrospective</title>
         <description>&lt;p&gt;The end of the year is a popular time for reflection so I thought it would be a fitting time to share a few lessons I learned through my 25x52 journey.&lt;/p&gt;
 </description>
