@@ -8,7 +8,7 @@
     
       <item>
         <title>GitHub C.V.</title>
-        <description>&lt;p&gt;This is a simple AJAX script that dynamically generates a portfolio page of your public GitHub repositories.&lt;/p&gt;
+        <description>&lt;p&gt;GitHub C.V. is a simple AJAX script that dynamically generates a portfolio page of your public GitHub repositories. This was inspired by a conversation I had with &lt;a href=&quot;http://twitter.com/giffco&quot;&gt;Giff Constable&lt;/a&gt; about how platforms like GitHub can replace online portfolios because they offer a better glimpse of your work. Q.E.D.&lt;/p&gt;
 
 &lt;p&gt;There’s a saying that “If you are not embarrassed by the first version of your product, you’ve waited too long.” Well, this is the first version, and it’s a bit embarrassing.&lt;/p&gt;
 
