@@ -19,5 +19,5 @@ What&rsquo;s a project? Anything that&rsquo;s useful to someone else. Generally,
 
 ### Get in touch
 
-Twitter: [femmebot](https://twitter.com/{{ site.twitter }})<br>
-Github: [femmebot](https://github.com/{{ site.github }})
+Twitter: [femmebot](https://twitter.com/femmebot)<br>
+Github: [femmebot](https://github.com/femmebot)
