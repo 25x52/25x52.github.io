@@ -7,6 +7,18 @@
     <atom:link href="http://25x52.com/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>Scandinavia Photo Series</title>
+        <description>&lt;p&gt;A collection of photos taken during a trip through Scandinavia. Shot entirely with an iPhone 6 without any filters or edits. Photos may be used for non-commercial applications, licensed under Creative Commons Attribution-NonCommercial Creative Commons.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../images/12-h.png&quot; alt=&quot;Travelogue: Scandinavia Photo Series&quot; /&gt;
+&lt;img src=&quot;../images/12-v.png&quot; alt=&quot;Travelogue: Scandinavia Photo Series&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 06 Oct 2105 00:00:00 -0400</pubDate>
+        <link>http://25x52.com/Travelogue-Photo-Series/</link>
+        <guid isPermaLink="true">http://25x52.com/Travelogue-Photo-Series/</guid>
+      </item>
+    
+      <item>
         <title>GitHub for Non-Programmers</title>
         <description>&lt;p&gt;In this hands-on workshop for &lt;a href=&quot;http://githubfordesigners.splashthat.com&quot;&gt;designers&lt;/a&gt; and &lt;a href=&quot;https://www.eventbrite.com/e/github-for-non-programmers-mac-tickets-16869532225&quot;&gt;non-programmers&lt;/a&gt;, participants were taught how to take advantage of Git with GitHub’s excellent distributed version-control capabilities and collaboration features to host and share their own open-source, non-technical projects.&lt;/p&gt;
 
@@ -124,17 +136,6 @@
         <pubDate>Tue, 02 Sep 2014 00:00:00 -0400</pubDate>
         <link>http://25x52.com/Gutenberg-SVG-Project/</link>
         <guid isPermaLink="true">http://25x52.com/Gutenberg-SVG-Project/</guid>
-      </item>
-    
-      <item>
-        <title>Project Moccasin</title>
-        <description>&lt;p&gt;&lt;a href=&quot;http://moccasin.me/2014&quot;&gt;Project Moccasin&lt;/a&gt; is an opportunity for designers and product folks to spend a day shadowing a product or design mentor to observe how they work, where they work.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;../images/02-v.png&quot; alt=&quot;Project Moccasin&quot; /&gt;&lt;/p&gt;
-</description>
-        <pubDate>Mon, 18 Aug 2014 00:00:00 -0400</pubDate>
-        <link>http://25x52.com/Project-Moccasin/</link>
-        <guid isPermaLink="true">http://25x52.com/Project-Moccasin/</guid>
       </item>
     
   </channel>
