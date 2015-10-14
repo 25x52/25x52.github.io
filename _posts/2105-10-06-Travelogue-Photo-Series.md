@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Scandinavia Photo Series
-desc: Rights-Free Photos
+desc: Royalty-Free Photos for Non-Commercial Use
 proj-url: http://femmebot.github.io/travelogue/
 proj-num: 12
 ---
