@@ -7,6 +7,17 @@
     <atom:link href="http://25x52.com/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>Travel Photo Locator</title>
+        <description>&lt;p&gt;A Python script that extracts your photos’ EXIF GPS data to identify the location (town, city, country) where your photos were taken from. Use it to quickly catalog large batches of photos (.jpg with EXIF GPS location enabled) and &lt;a href=&quot;https://femmebot.github.io/travel-exif/&quot;&gt;label each photo with their location&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../images/13-h.png&quot; alt=&quot;Travel Photo Locator&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sat, 05 Feb 2107 00:00:00 -0500</pubDate>
+        <link>http://25x52.com/Travel-Photo-Location-Catalog/</link>
+        <guid isPermaLink="true">http://25x52.com/Travel-Photo-Location-Catalog/</guid>
+      </item>
+    
+      <item>
         <title>Scandinavia Photo Series</title>
         <description>&lt;p&gt;A collection of photos taken during a trip through Scandinavia. Shot entirely with an iPhone 6 without any filters or edits. Photos may be used for non-commercial applications, licensed under Creative Commons Attribution-NonCommercial Creative Commons.&lt;/p&gt;
 
@@ -125,17 +136,6 @@
         <pubDate>Wed, 24 Sep 2014 00:00:00 -0400</pubDate>
         <link>http://25x52.com/Jekyll-Grid/</link>
         <guid isPermaLink="true">http://25x52.com/Jekyll-Grid/</guid>
-      </item>
-    
-      <item>
-        <title>Project Gutenberg SVG Project</title>
-        <description>&lt;p&gt;A free, monthly collection of select, bitmap images from Project Gutenberg are converted by hand into editable, vector SVG images.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://femmebot.github.io/Gutenberg-SVG/&quot;&gt;&lt;img src=&quot;../images/03-h.png&quot; alt=&quot;Project Gutenberg SVG Project&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Tue, 02 Sep 2014 00:00:00 -0400</pubDate>
-        <link>http://25x52.com/Gutenberg-SVG-Project/</link>
-        <guid isPermaLink="true">http://25x52.com/Gutenberg-SVG-Project/</guid>
       </item>
     
   </channel>
