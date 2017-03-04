@@ -1,9 +1,8 @@
 ---
-layout: page
 title: About
-permalink: /about/
+permalink: "/about/"
+layout: page
 ---
-
 
 ### Shipping Products is Better than Getting Tasks Done
 

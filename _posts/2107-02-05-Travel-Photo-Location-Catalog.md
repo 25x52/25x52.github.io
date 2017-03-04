@@ -1,7 +1,9 @@
 ---
-layout: post
 title: Travel Photo Locator
-desc: Extract location data from your travel photos and generate a photo catalog of the places you've visited
+date: 2107-02-05 00:00:00 Z
+layout: post
+desc: Extract location data from your travel photos and generate a photo catalog of
+  the places you've visited
 proj-url: https://github.com/femmebot/travel-exif
 proj-num: 13
 ---

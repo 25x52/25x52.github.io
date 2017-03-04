@@ -1,11 +1,11 @@
 ---
-layout: post
 title: Google Fonts Typography
+date: 2014-08-11 00:00:00 Z
+layout: post
 desc: Collaborative typography with Google fonts set to Aesop&rsquo;s Fables
 proj-url: http://femmebot.github.io/google-type/
-proj-num: 01
+proj-num: 1
 ---
-
 
 There are over 650 Google web fonts available for free. Problem is, pairing typefaces isn&rsquo;t easy. And, many of the fonts in Google&rsquo;s library don&rsquo;t work well when applied to typical webpage (desktop) layouts. Using passages from the Project Gutenberg transcript of Æsop&rsquo;s Fables, this collaborative, ongoing project helps provide typographic inspiration for using Google&rsquo;s free web fonts.
 
