@@ -48,7 +48,7 @@ permalink: /:title/
 # The release of Jekyll Now that you're using
 baseurl: ''
 markdown: kramdown
-highlighter: pygments
+highlighter: rouge
 permalink: "/:title/"
 version: v1.0.0
 sass:
