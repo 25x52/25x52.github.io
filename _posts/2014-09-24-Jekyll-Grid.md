@@ -1,9 +1,10 @@
 ---
-layout: post
 title: Jekyll Grid Theme
+date: 2014-09-24 00:00:00 Z
+layout: post
 desc: A Swiss-style, minimalist Jekyll theme ideal for projects
 proj-url: http://femmebot.github.io/jekyll-grid/
-proj-num: 04
+proj-num: 4
 ---
 
 I needed a way to chronicle and showcase a growing list of projects for 25x52. Based on some quick research, Jekyll seemed like a good solution especially since my projects are hosted on Github.

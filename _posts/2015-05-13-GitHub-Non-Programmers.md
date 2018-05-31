@@ -1,6 +1,7 @@
 ---
-layout: post
 title: GitHub for Non-Programmers
+date: 2015-05-13 00:00:00 Z
+layout: post
 desc: GitHub Workshops (NYC)
 proj-url: http://femmebot.github.io/Di55ect-GitHub/
 proj-num: 11
