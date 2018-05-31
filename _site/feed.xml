@@ -3,31 +3,8 @@
   <channel>
     <title>25x52</title>
     <description>An initiative to launch 25 projects in 52 weeks</description>
-    <link>http://25x52.com</link>
-    <atom:link href="http://25x52.com/feed.xml" rel="self" type="application/rss+xml" />
-    
-      <item>
-        <title>Travel Photo Locator</title>
-        <description>&lt;p&gt;A Python script that extracts your photos’ EXIF GPS data to identify the location (town, city, country) where your photos were taken from. Use it to quickly catalog large batches of photos (.jpg with EXIF GPS location enabled) and &lt;a href=&quot;https://femmebot.github.io/travel-exif/&quot;&gt;label each photo with their location&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;../images/13-h.png&quot; alt=&quot;Travel Photo Locator&quot; /&gt;&lt;/p&gt;
-</description>
-        <pubDate>Sat, 05 Feb 2107 00:00:00 -0500</pubDate>
-        <link>http://25x52.com/Travel-Photo-Location-Catalog/</link>
-        <guid isPermaLink="true">http://25x52.com/Travel-Photo-Location-Catalog/</guid>
-      </item>
-    
-      <item>
-        <title>Scandinavia Photo Series</title>
-        <description>&lt;p&gt;A collection of photos taken during a trip through Scandinavia. Shot entirely with an iPhone 6 without any filters or edits. Photos may be used for non-commercial applications, licensed under Creative Commons Attribution-NonCommercial Creative Commons.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;../images/12-h.png&quot; alt=&quot;Travelogue: Scandinavia Photo Series&quot; /&gt;
-&lt;img src=&quot;../images/12-v.png&quot; alt=&quot;Travelogue: Scandinavia Photo Series&quot; /&gt;&lt;/p&gt;
-</description>
-        <pubDate>Tue, 06 Oct 2105 00:00:00 -0400</pubDate>
-        <link>http://25x52.com/Travelogue-Photo-Series/</link>
-        <guid isPermaLink="true">http://25x52.com/Travelogue-Photo-Series/</guid>
-      </item>
+    <link>http://localhost:4000</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
         <title>GitHub for Non-Programmers</title>
@@ -36,8 +13,8 @@
 &lt;p&gt;&lt;img src=&quot;../images/11-h.png&quot; alt=&quot;GitHub for Non-Programmers&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Wed, 13 May 2015 00:00:00 -0400</pubDate>
-        <link>http://25x52.com/GitHub-Non-Programmers/</link>
-        <guid isPermaLink="true">http://25x52.com/GitHub-Non-Programmers/</guid>
+        <link>http://localhost:4000/GitHub-Non-Programmers/</link>
+        <guid isPermaLink="true">http://localhost:4000/GitHub-Non-Programmers/</guid>
       </item>
     
       <item>
@@ -47,8 +24,8 @@
 &lt;p&gt;&lt;img src=&quot;../images/09-h.png&quot; alt=&quot;Project Moccasin&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Mon, 23 Feb 2015 00:00:00 -0500</pubDate>
-        <link>http://25x52.com/Project-Moccasin-Austin/</link>
-        <guid isPermaLink="true">http://25x52.com/Project-Moccasin-Austin/</guid>
+        <link>http://localhost:4000/Project-Moccasin-Austin/</link>
+        <guid isPermaLink="true">http://localhost:4000/Project-Moccasin-Austin/</guid>
       </item>
     
       <item>
@@ -58,8 +35,8 @@
 &lt;p&gt;&lt;img src=&quot;../images/09-h.png&quot; alt=&quot;Project Moccasin&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Sun, 22 Feb 2015 00:00:00 -0500</pubDate>
-        <link>http://25x52.com/Project-Moccasin-NYC/</link>
-        <guid isPermaLink="true">http://25x52.com/Project-Moccasin-NYC/</guid>
+        <link>http://localhost:4000/Project-Moccasin-NYC/</link>
+        <guid isPermaLink="true">http://localhost:4000/Project-Moccasin-NYC/</guid>
       </item>
     
       <item>
@@ -75,8 +52,8 @@
 &lt;p&gt;&lt;a href=&quot;http://femmebot.github.io/GitHub-Project-CV/&quot;&gt;&lt;img src=&quot;../images/08-h.png&quot; alt=&quot;GitHub C.V.&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Fri, 09 Jan 2015 00:00:00 -0500</pubDate>
-        <link>http://25x52.com/GitHub-CV/</link>
-        <guid isPermaLink="true">http://25x52.com/GitHub-CV/</guid>
+        <link>http://localhost:4000/GitHub-CV/</link>
+        <guid isPermaLink="true">http://localhost:4000/GitHub-CV/</guid>
       </item>
     
       <item>
@@ -84,22 +61,22 @@
         <description>&lt;p&gt;The end of the year is a popular time for reflection so I thought it would be a fitting time to share a few lessons I learned through my 25x52 journey.&lt;/p&gt;
 </description>
         <pubDate>Thu, 08 Jan 2015 00:00:00 -0500</pubDate>
-        <link>http://25x52.com/2014-Retrospective/</link>
-        <guid isPermaLink="true">http://25x52.com/2014-Retrospective/</guid>
+        <link>http://localhost:4000/2014-Retrospective/</link>
+        <guid isPermaLink="true">http://localhost:4000/2014-Retrospective/</guid>
       </item>
     
       <item>
         <title>La8el</title>
         <description>&lt;p&gt;’Tis that time of the year for giving presents.&lt;/p&gt;
 
-&lt;p&gt;Keeping within the 25x52 spirit of design frugality and resourcefulness, La8el uses foraged, free design elements to create packaging labels that can be customized for your own use. Imagination with the right set of constraints can yield beautiful results.  &lt;/p&gt;
+&lt;p&gt;Keeping within the 25x52 spirit of design frugality and resourcefulness, La8el uses foraged, free design elements to create packaging labels that can be customized for your own use. Imagination with the right set of constraints can yield beautiful results.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;http://femmebot.github.io/label/&quot;&gt;&lt;img src=&quot;../images/06-h.png&quot; alt=&quot;La8el&quot; /&gt;&lt;/a&gt;
 &lt;a href=&quot;http://femmebot.github.io/label/&quot;&gt;&lt;img src=&quot;../images/06-2-h.png&quot; alt=&quot;La8el&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Mon, 08 Dec 2014 00:00:00 -0500</pubDate>
-        <link>http://25x52.com/La8el/</link>
-        <guid isPermaLink="true">http://25x52.com/La8el/</guid>
+        <link>http://localhost:4000/La8el/</link>
+        <guid isPermaLink="true">http://localhost:4000/La8el/</guid>
       </item>
     
       <item>
@@ -115,8 +92,8 @@
 &lt;p&gt;&lt;a href=&quot;http://25x52.com/di55ect&quot;&gt;&lt;img src=&quot;../images/05-h.png&quot; alt=&quot;Di55ect&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Sun, 26 Oct 2014 00:00:00 -0400</pubDate>
-        <link>http://25x52.com/Di55ect/</link>
-        <guid isPermaLink="true">http://25x52.com/Di55ect/</guid>
+        <link>http://localhost:4000/Di55ect/</link>
+        <guid isPermaLink="true">http://localhost:4000/Di55ect/</guid>
       </item>
     
       <item>
@@ -134,8 +111,30 @@
 &lt;p&gt;&lt;a href=&quot;http://femmebot.github.io/jekyll-grid/&quot;&gt;&lt;img src=&quot;../images/04-h.png&quot; alt=&quot;Jekyll Grid Theme&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Wed, 24 Sep 2014 00:00:00 -0400</pubDate>
-        <link>http://25x52.com/Jekyll-Grid/</link>
-        <guid isPermaLink="true">http://25x52.com/Jekyll-Grid/</guid>
+        <link>http://localhost:4000/Jekyll-Grid/</link>
+        <guid isPermaLink="true">http://localhost:4000/Jekyll-Grid/</guid>
+      </item>
+    
+      <item>
+        <title>Project Gutenberg SVG Project</title>
+        <description>&lt;p&gt;A free, monthly collection of select, bitmap images from Project Gutenberg are converted by hand into editable, vector SVG images.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://femmebot.github.io/Gutenberg-SVG/&quot;&gt;&lt;img src=&quot;../images/03-h.png&quot; alt=&quot;Project Gutenberg SVG Project&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 02 Sep 2014 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/Gutenberg-SVG-Project/</link>
+        <guid isPermaLink="true">http://localhost:4000/Gutenberg-SVG-Project/</guid>
+      </item>
+    
+      <item>
+        <title>Project Moccasin</title>
+        <description>&lt;p&gt;&lt;a href=&quot;http://moccasin.me/2014&quot;&gt;Project Moccasin&lt;/a&gt; is an opportunity for designers and product folks to spend a day shadowing a product or design mentor to observe how they work, where they work.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../images/02-v.png&quot; alt=&quot;Project Moccasin&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 18 Aug 2014 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/Project-Moccasin/</link>
+        <guid isPermaLink="true">http://localhost:4000/Project-Moccasin/</guid>
       </item>
     
   </channel>
