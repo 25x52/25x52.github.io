@@ -2,7 +2,7 @@
 title: Project Moccasin
 date: 2014-08-18 00:00:00 Z
 layout: post
-desc: Mini-Mentorship Pilot Program
+desc: Mini-mentorship pilot program
 proj-url: http://moccasin.me/2014
 proj-num: 2
 ---
