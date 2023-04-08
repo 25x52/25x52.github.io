@@ -2,7 +2,7 @@
 title: Project Moccasin, Austin, TX
 date: 2015-02-23 00:00:00 Z
 layout: post
-desc: Mini-Mentorship Program Launch in Austin, TX
+desc: Mini-mentorship program launch in Austin, TX
 proj-url: http://moccasin.me
 proj-num: 10
 ---

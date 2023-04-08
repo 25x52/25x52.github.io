@@ -2,7 +2,7 @@
 title: Project Moccasin, New York, NY
 date: 2015-02-22 00:00:00 Z
 layout: post
-desc: Mini-Mentorship Program NYC Relaunch
+desc: Mini-mentorship program NYC relaunch
 proj-url: http://moccasin.me
 proj-num: 9
 ---
