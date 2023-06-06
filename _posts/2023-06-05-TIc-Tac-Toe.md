@@ -3,7 +3,7 @@ title: Tic Tac Toe in JavaScript
 date: 2023-06-05 00:00:00 Z
 layout: post
 desc: A browser-based version of the classic game that doesn’t require a backend
-proj-url: http://femmebot.github.io/google-type/
+proj-url: https://github.com/25x52/tic-tac-toe
 proj-num: 12
 ---
 
