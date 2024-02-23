@@ -77,7 +77,12 @@ body {
   width: 100%;
 }
 
-h1, h2, h3, h4, h5, h6 {
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: #555;
   font-weight: 700;
@@ -86,7 +91,12 @@ h1, h2, h3, h4, h5, h6 {
   padding: 0;
 }
 @media screen and (max-width: 640px) {
-  h1, h2, h3, h4, h5, h6 {
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
     line-height: 1.4;
   }
 }
@@ -199,7 +209,8 @@ a:hover, a:active {
   color: #c30;
 }
 
-ul, ol {
+ul,
+ol {
   margin: 15px 0;
   padding-left: 30px;
 }
@@ -212,19 +223,25 @@ ol {
   list-style-type: decimal;
 }
 
-ol ul, ul ol, ul ul, ol ol {
+ol ul,
+ul ol,
+ul ul,
+ol ol {
   margin: 0;
 }
 
-ul ul, ol ul {
+ul ul,
+ol ul {
   list-style-type: circle;
 }
 
-em, i {
+em,
+i {
   font-style: italic;
 }
 
-strong, b {
+strong,
+b {
   font-weight: bold;
   color: #555;
 }
@@ -421,47 +438,22 @@ footer {
 /*********************/
 /* NEWSLETTER SIGNUP */
 /*********************/
-#updates form {
-  border-top: 1px solid #777;
-  padding: 60px 0;
-  margin-top: 60px;
-}
-#updates form input {
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-}
-@media screen and (max-width: 640px) {
-  #updates form {
-    margin: 60px 20px 0 20px;
-  }
+#updates {
+  margin-top: 40px;
+  padding-top: 40px;
+  border-top: 1px solid #777777;
 }
 
-#updates #tlemail {
-  box-shadow: none;
-  width: 320px;
-  padding: 6px;
-  border: 1px solid #ccc;
-  border-radius: 3px;
-  font-size: 16px;
-  line-height: 30px;
+.form-container {
+  margin-left: 0;
+  margin-right: 0;
+  width: 680px;
+  max-width: 640px !important;
 }
 
-#updates h4 {
-  font-weight: 500;
-  color: #555;
-}
-
-.btn-primary {
-  background-color: #d42;
-  padding: 12px 20px;
-  border: none;
-  border-radius: 3px;
-  font: 16px "Helvetica Neue", Helvetica, Arial, sans-serif;
-  color: #fff;
-}
-
-.tinytype {
-  font: 10px Arial;
-  color: #999;
+.emailoctopus-form-wrapper,
+.form-container {
+  width: 640px;
 }
 
 /***********************/
