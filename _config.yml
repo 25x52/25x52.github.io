@@ -27,10 +27,21 @@ disqus:
 google_analytics: UA-51931-4
 url: http://25x52.com
 baseurl: ''
-markdown: kramdown
-highlighter: rouge
+# markdown: kramdown
+# highlighter: rouge
 permalink: "/:title/"
 version: v1.0.0
+
+# Jekyll 3 now only supports Kramdown for Markdown
+kramdown:
+  # Use GitHub flavored markdown, including triple backtick fenced code blocks
+  input: GFM
+  # Jekyll 3 and GitHub Pages now only support rouge for syntax highlighting
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    # Use existing pygments syntax highlighting css
+    css_class: 'highlight'
+
 sass:
   sass_dir: _scss
   style: :expanded

@@ -7,18 +7,26 @@
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
-        <title>Tic Tac Toe in JavaScript</title>
-        <description>&lt;p&gt;The classic, turn-based game written in pure JavaScript as a client app. Inspired by &lt;a href=&quot;https://100daysofwebdev.com&quot;&gt;100 Days of Web Development&lt;/a&gt;.&lt;/p&gt;
+        <title>Travel Photo Locator</title>
+        <description>&lt;p&gt;A Python script that extracts your photos’ EXIF GPS data to identify the location (town, city, country) where your photos were taken from. Use it to quickly catalog large batches of photos (.jpg with EXIF GPS location enabled) and &lt;a href=&quot;https://femmebot.github.io/travel-exif/&quot;&gt;label each photo with their location&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;Play the game: &lt;a href=&quot;https://25x52.com/tic-tac-toe/&quot;&gt;Tic Tac Toe&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Fork it on GitHub: &lt;a href=&quot;https://github.com/25x52/tic-tac-toe&quot;&gt;https://github.com/25x52/tic-tac-toe&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://github.com/25x52/tic-tac-toe&quot;&gt;&lt;img src=&quot;../images/12-tictactoe.png&quot; alt=&quot;Tic Tac Toe in JavaScript&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;../images/13-h.png&quot; alt=&quot;Travel Photo Locator&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Mon, 05 Jun 2023 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/Tic-Tac-Toe/</link>
-        <guid isPermaLink="true">http://localhost:4000/Tic-Tac-Toe/</guid>
+        <pubDate>Sun, 05 Feb 2017 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/Travel-Photo-Location-Catalog/</link>
+        <guid isPermaLink="true">http://localhost:4000/Travel-Photo-Location-Catalog/</guid>
+      </item>
+    
+      <item>
+        <title>Scandinavia Photo Series</title>
+        <description>&lt;p&gt;A collection of photos taken during a trip through Scandinavia. Shot entirely with an iPhone 6 without any filters or edits. Photos may be used for non-commercial applications, licensed under Creative Commons Attribution-NonCommercial Creative Commons.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../images/12-h.png&quot; alt=&quot;Travelogue: Scandinavia Photo Series&quot; /&gt;
+&lt;img src=&quot;../images/12-v.png&quot; alt=&quot;Travelogue: Scandinavia Photo Series&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sat, 06 Jun 2015 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/Travelogue-Photo-Series/</link>
+        <guid isPermaLink="true">http://localhost:4000/Travelogue-Photo-Series/</guid>
       </item>
     
       <item>
@@ -128,17 +136,6 @@
         <pubDate>Wed, 24 Sep 2014 00:00:00 +0000</pubDate>
         <link>http://localhost:4000/Jekyll-Grid/</link>
         <guid isPermaLink="true">http://localhost:4000/Jekyll-Grid/</guid>
-      </item>
-    
-      <item>
-        <title>Project Gutenberg SVG Project</title>
-        <description>&lt;p&gt;A free, monthly collection of select, bitmap images from Project Gutenberg are converted by hand into editable, vector SVG images.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://femmebot.github.io/Gutenberg-SVG/&quot;&gt;&lt;img src=&quot;../images/03-h.png&quot; alt=&quot;Project Gutenberg SVG Project&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Tue, 02 Sep 2014 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/Gutenberg-SVG-Project/</link>
-        <guid isPermaLink="true">http://localhost:4000/Gutenberg-SVG-Project/</guid>
       </item>
     
   </channel>

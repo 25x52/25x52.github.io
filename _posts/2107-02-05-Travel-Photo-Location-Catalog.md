@@ -1,6 +1,6 @@
 ---
 title: Travel Photo Locator
-date: 2107-02-05 00:00:00 Z
+date: 2017-02-05 00:00:00 Z
 layout: post
 desc: Extract location data from your travel photos and generate a photo catalog of
   the places you've visited
