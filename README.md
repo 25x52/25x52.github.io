@@ -1,4 +1,4 @@
-Website: [http://25x52.com](http://25x52.com)
+Website: [http://25x52.site](http://25x52.site)
 
 To run locally, make sure you have pre-requisites installed
 ```
