@@ -3,7 +3,7 @@ title: Project Gutenberg SVG Project
 date: 2014-09-02 00:00:00 Z
 layout: post
 desc: Free vector images converted from Project Gutenberg bitmaps
-proj-url: http://femmebot.github.io/Gutenberg-SVG/
+proj-url: https://femmebot.github.io/Gutenberg-SVG/
 proj-num: 3
 ---
 

@@ -3,7 +3,7 @@ title: Jekyll Grid Theme
 date: 2014-09-24 00:00:00 Z
 layout: post
 desc: A Swiss-style, minimalist Jekyll theme ideal for projects
-proj-url: http://femmebot.github.io/jekyll-grid/
+proj-url: https://femmebot.github.io/jekyll-grid/
 proj-num: 4
 ---
 

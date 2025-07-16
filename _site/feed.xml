@@ -31,7 +31,7 @@
     
       <item>
         <title>GitHub for Non-Programmers</title>
-        <description>&lt;p&gt;In this hands-on workshop for &lt;a href=&quot;http://githubfordesigners.splashthat.com&quot;&gt;designers&lt;/a&gt; and &lt;a href=&quot;https://www.eventbrite.com/e/github-for-non-programmers-mac-tickets-16869532225&quot;&gt;non-programmers&lt;/a&gt;, participants were taught how to take advantage of Git with GitHub’s excellent distributed version-control capabilities and collaboration features to host and share their own open-source, non-technical projects.&lt;/p&gt;
+        <description>&lt;p&gt;In this hands-on workshop for &lt;a href=&quot;https://githubfordesigners.splashthat.com&quot;&gt;designers&lt;/a&gt; and &lt;a href=&quot;https://www.eventbrite.com/e/github-for-non-programmers-mac-tickets-16869532225&quot;&gt;non-programmers&lt;/a&gt;, participants were taught how to take advantage of Git with GitHub’s excellent distributed version-control capabilities and collaboration features to host and share their own open-source, non-technical projects.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;../images/11-h.png&quot; alt=&quot;GitHub for Non-Programmers&quot; /&gt;&lt;/p&gt;
 </description>
@@ -42,7 +42,7 @@
     
       <item>
         <title>Project Moccasin, Austin, TX</title>
-        <description>&lt;p&gt;&lt;a href=&quot;http://moccasin.me&quot;&gt;Project Moccasin&lt;/a&gt; is an opportunity for designers and product folks to spend a day shadowing a product or design mentor to observe how they work, where they work.&lt;/p&gt;
+        <description>&lt;p&gt;&lt;a href=&quot;https://moccasin.me&quot;&gt;Project Moccasin&lt;/a&gt; is an opportunity for designers and product folks to spend a day shadowing a product or design mentor to observe how they work, where they work.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;../images/09-h.png&quot; alt=&quot;Project Moccasin&quot; /&gt;&lt;/p&gt;
 </description>
@@ -53,7 +53,7 @@
     
       <item>
         <title>Project Moccasin, New York, NY</title>
-        <description>&lt;p&gt;&lt;a href=&quot;http://moccasin.me&quot;&gt;Project Moccasin&lt;/a&gt; is an opportunity for designers and product folks to spend a day shadowing a product or design mentor to observe how they work, where they work.&lt;/p&gt;
+        <description>&lt;p&gt;&lt;a href=&quot;https://moccasin.me&quot;&gt;Project Moccasin&lt;/a&gt; is an opportunity for designers and product folks to spend a day shadowing a product or design mentor to observe how they work, where they work.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;../images/09-h.png&quot; alt=&quot;Project Moccasin&quot; /&gt;&lt;/p&gt;
 </description>
@@ -64,15 +64,15 @@
     
       <item>
         <title>GitHub C.V.</title>
-        <description>&lt;p&gt;&lt;a href=&quot;http://femmebot.github.io/GitHub-Project-CV/&quot;&gt;GitHub C.V.&lt;/a&gt; is a simple AJAX script that dynamically generates a portfolio page of your public GitHub repositories.&lt;/p&gt;
+        <description>&lt;p&gt;&lt;a href=&quot;https://femmebot.github.io/GitHub-Project-CV/&quot;&gt;GitHub C.V.&lt;/a&gt; is a simple AJAX script that dynamically generates a portfolio page of your public GitHub repositories.&lt;/p&gt;
 
-&lt;p&gt;This was inspired by a conversation I had with &lt;a href=&quot;http://twitter.com/giffco&quot;&gt;Giff Constable&lt;/a&gt; about how platforms like GitHub have become proxies for personal website portfolios because they offer a better, unadulterated glimpse of your work. The problem, though, is that it isn’t easy to distinguish repos for projects you created from repos you simply forked but didn’t contribute to. This script solves that. Q.E.D.&lt;/p&gt;
+&lt;p&gt;This was inspired by a conversation I had with &lt;a href=&quot;https://twitter.com/giffco&quot;&gt;Giff Constable&lt;/a&gt; about how platforms like GitHub have become proxies for personal website portfolios because they offer a better, unadulterated glimpse of your work. The problem, though, is that it isn’t easy to distinguish repos for projects you created from repos you simply forked but didn’t contribute to. This script solves that. Q.E.D.&lt;/p&gt;
 
 &lt;p&gt;There’s a saying that “If you are not embarrassed by the first version of your product, you’ve waited too long.” Well, this is the first version, and it’s a bit embarrassing.&lt;/p&gt;
 
 &lt;p&gt;Feel free to &lt;a href=&quot;https://github.com/femmebot/GitHub-Project-CV&quot;&gt;dig into the code&lt;/a&gt;. I would love to hear feedback on how to make improvements.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://femmebot.github.io/GitHub-Project-CV/&quot;&gt;&lt;img src=&quot;../images/08-h.png&quot; alt=&quot;GitHub C.V.&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://femmebot.github.io/GitHub-Project-CV/&quot;&gt;&lt;img src=&quot;../images/08-h.png&quot; alt=&quot;GitHub C.V.&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Fri, 09 Jan 2015 00:00:00 +0000</pubDate>
         <link>http://localhost:4000/GitHub-CV/</link>
@@ -94,8 +94,8 @@
 
 &lt;p&gt;Keeping within the 25x52 spirit of design frugality and resourcefulness, La8el uses foraged, free design elements to create packaging labels that can be customized for your own use. Imagination with the right set of constraints can yield beautiful results.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://femmebot.github.io/label/&quot;&gt;&lt;img src=&quot;../images/06-h.png&quot; alt=&quot;La8el&quot; /&gt;&lt;/a&gt;
-&lt;a href=&quot;http://femmebot.github.io/label/&quot;&gt;&lt;img src=&quot;../images/06-2-h.png&quot; alt=&quot;La8el&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://femmebot.github.io/label/&quot;&gt;&lt;img src=&quot;../images/06-h.png&quot; alt=&quot;La8el&quot; /&gt;&lt;/a&gt;
+&lt;a href=&quot;https://femmebot.github.io/label/&quot;&gt;&lt;img src=&quot;../images/06-2-h.png&quot; alt=&quot;La8el&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Mon, 08 Dec 2014 00:00:00 +0000</pubDate>
         <link>http://localhost:4000/La8el/</link>
@@ -112,7 +112,7 @@
 
 &lt;p&gt;Di55ect is an experiment that takes a close look at micro-topics from various 25x52 projects and builds an opportunity for learning and further conversation.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://25x52.com/di55ect&quot;&gt;&lt;img src=&quot;../images/05-h.png&quot; alt=&quot;Di55ect&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://25x52.com/di55ect&quot;&gt;&lt;img src=&quot;../images/05-h.png&quot; alt=&quot;Di55ect&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Sun, 26 Oct 2014 00:00:00 +0000</pubDate>
         <link>http://localhost:4000/Di55ect/</link>
@@ -131,7 +131,7 @@
 
 &lt;p&gt;Feel free to use it for your own project documentation. Fork it here: &lt;a href=&quot;https://github.com/femmebot/jekyll-grid&quot;&gt;https://github.com/femmebot/jekyll-grid&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://femmebot.github.io/jekyll-grid/&quot;&gt;&lt;img src=&quot;../images/04-h.png&quot; alt=&quot;Jekyll Grid Theme&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://femmebot.github.io/jekyll-grid/&quot;&gt;&lt;img src=&quot;../images/04-h.png&quot; alt=&quot;Jekyll Grid Theme&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Wed, 24 Sep 2014 00:00:00 +0000</pubDate>
         <link>http://localhost:4000/Jekyll-Grid/</link>

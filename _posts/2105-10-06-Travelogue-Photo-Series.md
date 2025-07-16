@@ -3,7 +3,7 @@ title: Scandinavia Photo Series
 date: 2015-06-06 00:00:00 Z
 layout: post
 desc: Royalty-Free Photos for Non-Commercial Use
-proj-url: http://femmebot.github.io/travelogue/
+proj-url: https://femmebot.github.io/travelogue/
 proj-num: 12
 ---
 
