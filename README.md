@@ -1,4 +1,5 @@
-Website: [https://25x52.github.io/](https://25x52.github.io/)
+
+Website: [https://25x52.github.io](https://25x52.github.io)
 
 To run locally, make sure you have pre-requisites installed
 ```
